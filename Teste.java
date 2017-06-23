@@ -3,14 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.algas;
 
 /**
  *
  * @author VILA
  */
-public class ClasseTeste {
-    public static void main(String[] args){
-        
-    }
+public class Teste {
+    
 }
